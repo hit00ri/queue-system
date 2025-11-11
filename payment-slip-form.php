@@ -245,7 +245,7 @@
                         </div>
                         
                         <!-- Payment History -->
-                        <div class="card dashboard-card">
+                        <!-- <div class="card dashboard-card">
                             <div class="card-header">
                                 <h5 class="mb-0"><i class="fas fa-history me-2"></i>Payment History</h5>
                             </div>
@@ -299,7 +299,7 @@
                                     </table>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
