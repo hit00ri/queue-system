@@ -178,7 +178,7 @@ if ($_POST['action'] ?? '' === 'submit_payment_slip') {
                 </div>
             </div>
         </nav>
-
+            <h1>Testing...</h1>
         <!-- Main Content -->
         <div class="container mt-5">
             <div class="row justify-content-center">
